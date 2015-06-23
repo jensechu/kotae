@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "〜たい"
+title: "〜たくない"
 categories: verb
 permalink: /:categories/:title.html
 ---
 
 ## Meaning
 
-want to ________.
+do not want to ________.
 
 ---
 
@@ -19,5 +19,5 @@ want to ________.
 
 ## Examples
 
-私はビールを飲み**たい**。
-I want to drink beer.
+私はビールを飲み**たくない**。
+I do not want to drink beer.
