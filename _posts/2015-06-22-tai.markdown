@@ -5,13 +5,17 @@ categories: verb
 permalink: /:categories/:title.html
 ---
 
-## MEANING
+## Meaning
 
 want to ________.
 
 ---
 
-## EXAMPLES
+## Usage
+
+---
+
+## Examples
 
 私はビールを飲み**たい**。
 I want to drink beer.

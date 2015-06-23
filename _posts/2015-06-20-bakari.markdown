@@ -5,13 +5,19 @@ categories: verb
 permalink: /:categories/:title.html
 ---
 
-## MEANING
+## Meaning
 
 to only do ________.
 
 ---
 
-## EXAMPLES
+## Usage
+
+-て form verb.
+
+---
+
+## Examples
 
 私はビールを飲んで**ばかり**。
 I only drink beer.

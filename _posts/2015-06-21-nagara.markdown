@@ -1,0 +1,21 @@
+---
+layout: post
+title: "〜ながら"
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+I do ________ while doing ________.
+
+---
+
+## Usage
+
+---
+
+## Examples
+
+私はビールを飲み**ながら**車を運転しない。
+While drinking beer I do not drive.

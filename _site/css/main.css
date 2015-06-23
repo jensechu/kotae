@@ -301,7 +301,9 @@ pre {
     padding: 10px 0px; }
   .post-content h2 {
     font-size: 14px;
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+    font-weight: bold;
+    text-transform: uppercase; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
         font-size: 16px; } }
