@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "〜ばかり"
+title: "〜たい"
 categories: verb
 permalink: /:categories/:title.html
 ---
 
 ## MEANING
 
-to only do ________.
+want to ________.
 
 ---
 
 ## EXAMPLES
 
-私はビールを飲んで**ばかり**。
-I only drink beer.
+私はビールを飲み**たい**。
+I want to drink beer.
