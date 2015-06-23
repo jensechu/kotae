@@ -1,0 +1,21 @@
+---
+layout: post
+title: "〜たい"
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+want to ________.
+
+---
+
+## Usage
+
+---
+
+## Examples
+
+私はビールを飲み**たい**。
+I want to drink beer.

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "〜ばかり"
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+to only do ________.
+
+---
+
+## Usage
+
+-て form verb.
+
+---
+
+## Examples
+
+私はビールを飲んで**ばかり**。
+I only drink beer.
