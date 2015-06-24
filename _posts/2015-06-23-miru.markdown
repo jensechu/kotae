@@ -1,0 +1,26 @@
+---
+layout: post
+title: "〜みる"
+description: "to try to  _____."
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+to try to _____.
+
+---
+
+## Usage
+
+ーて form verb.
+
+見る means 'to see'. In this case 'to see' the modified verb carried out.
+
+---
+
+## Examples
+
+私はビールを飲んで**みる**。
+I only drink beer.

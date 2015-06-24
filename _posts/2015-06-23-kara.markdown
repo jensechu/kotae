@@ -1,0 +1,31 @@
+---
+layout: post
+title: "〜から"
+description: "from _____."
+categories: grammar
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+from _____.
+
+---
+
+## Usage
+
+If after a clause can indicate:
+
+* as a **result** of this
+* to come **from** a location
+
+---
+
+## Examples
+
+私はたくさんビールを飲みました**から**ねむいです。
+I drank a lot of beer **so** I am sleepy.
+
+
+内**から**会社にいきました。
+I went **from** home to my office.

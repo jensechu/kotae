@@ -14,7 +14,7 @@ do _____ while _____.
 
 ## Usage
 
--ます root form verb.
+ーます root form verb.
 
 ---
 
