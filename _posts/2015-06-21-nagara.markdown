@@ -8,7 +8,7 @@ permalink: /:categories/:title.html
 
 ## Meaning
 
-do _____ while _____.
+do ＿＿＿ while  ＿＿＿.
 
 ---
 

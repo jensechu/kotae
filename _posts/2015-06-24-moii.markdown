@@ -1,0 +1,27 @@
+---
+layout: post
+title: "〜もいい"
+description: "may I _____."
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+glad that  _____.
+
+---
+
+## Usage
+
+ーて form verb.
+
+---
+
+## Examples
+
+犬を撫でて**もいい**です。
+It is okay to pet the dog.
+
+写真を撮って**もいい**ですか。
+May I take a pictre?

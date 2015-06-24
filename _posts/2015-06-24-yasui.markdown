@@ -1,0 +1,24 @@
+---
+layout: post
+title: "〜やすい"
+description: "_____ is easy to do."
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+_____ is east to do.
+
+---
+
+## Usage
+
+〜ます root from verb.
+
+---
+
+## Examples
+
+このお酒は飲み**やすい**。
+This alcohol is easy to drink.

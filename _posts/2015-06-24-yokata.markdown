@@ -1,0 +1,24 @@
+---
+layout: post
+title: "〜よかった"
+description: "glad that  _____."
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+glad that  _____.
+
+---
+
+## Usage
+
+ーて form verb.
+
+---
+
+## Examples
+
+あなたに会えて**よかった**。
+I am glad I met you.

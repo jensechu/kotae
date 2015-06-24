@@ -1,0 +1,24 @@
+---
+layout: post
+title: "〜にくい"
+description: "_____ is hard to do."
+categories: verb
+permalink: /:categories/:title.html
+---
+
+## Meaning
+
+_____ is hard to do.
+
+---
+
+## Usage
+
+〜ます root from verb.
+
+---
+
+## Examples
+
+この肉は食べ**にくい**。
+This meat is hard to eat.
