@@ -23,8 +23,8 @@ If after a clause can indicate:
 
 ## Examples
 
-私はたくさんビールを飲みました**から**ねむいです。
-I drank a lot of beer **so** I am sleepy.
+大丈夫です**から**心配しないでください。
+I am fine **so** don't worry about me.
 
 
 内**から**会社にいきました。
