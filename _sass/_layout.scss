@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid #FF7888;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -197,15 +197,35 @@
     margin-bottom: $spacing-unit;
 }
 
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-    margin-bottom: 25px;
+.post-row {
+    width: 100%;
+    padding: 0px 10px;
+    display: inline-block;
+    line-height: 35px;
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
+    &:nth-child(even) {
+    	background: rgba(230, 230, 230, 0.5);
     }
+
+    &:hover {
+    	background: rgba(#FFB3B3, 0.2);
+	
+	a {
+            text-decoration: none;
+    	}
+
+    }
+}
+
+.post-title {
+    font-size: 20px;
+    width: 30%;
+    float: left;
+}
+
+.post-description {
+    width: 70%;
+    float: left;
 }
 
 .post-content {
@@ -225,6 +245,8 @@
 	margin-bottom: 0px;
 	font-weight: bold;
 	text-transform: uppercase;
+	width: 100%;
+	display: inline-block;
 
         @include media-query($on-laptop) {
             font-size: 16px;
@@ -246,4 +268,16 @@
             font-size: 18px;
         }
     }
+}
+
+.post {
+  .post-header {
+  	  margin-bottom: 10px;
+          display: inline-block;
+      }
+      
+      .post-title {
+          width: 100%;
+          font-size: 35px;
+       }
 }

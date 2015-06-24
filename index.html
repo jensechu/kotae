@@ -3,17 +3,30 @@ layout: default
 ---
 
 <div class="home">
+  <div class='post-list'>
+    <div class='post-row'>
+      <div class='post-title'>
+	Form
+      </div>
 
-  <h1 class="page-heading">Compendium</h1>
-
-  <ul class="post-list">
+      <div class='post-title'>
+	Usage
+      </div>
+    </div>
+	
     {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{post.form}} {{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <div class='post-row'>
+      <div class='post-title'>
+	<a href='{{ post.url }}'>
+	  {{ post.title }}
+	</a>
+      </div>
 
+      <div class='post-description'>
+	{{ post.description }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  
 </div>

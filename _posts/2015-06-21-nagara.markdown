@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "〜ながら"
+description: "do _____ while  _____."
 categories: verb
 permalink: /:categories/:title.html
 ---
 
 ## Meaning
 
-I do ________ while doing ________.
+do _____ while _____.
 
 ---
 
