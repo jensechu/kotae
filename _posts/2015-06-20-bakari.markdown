@@ -3,7 +3,7 @@ layout: post
 title: "〜ばかり"
 description: "to only do  _____."
 categories: verb
-permalink: /:categories/:title.html
+permalink: /:category/:title.html
 ---
 
 ## Meaning
