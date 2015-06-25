@@ -1,0 +1,31 @@
+---
+layout: post
+title: "〜の"
+description: "posession of ____ by ____."
+categories: verb
+---
+
+## Meaning
+
+Indicates posession over something else.
+
+Can also be used for prepositional directions such as: above, below, around etc.
+
+---
+
+## Usage
+
+Used after a noun to indicate ownership over following object.
+
+---
+
+## Examples
+
+私**の**ビールです。
+This is my beer.
+
+机**の**上に本があります。
+There is a book on top of the desk.
+
+あ**の**森**の**中にこわい動物がいます。
+There are scary animals in that forest (over there).
