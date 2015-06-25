@@ -3,7 +3,6 @@ layout: post
 title: "〜もいい"
 description: "may I _____."
 categories: verb
-permalink: /:categories/:title.html
 ---
 
 ## Meaning

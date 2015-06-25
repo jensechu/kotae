@@ -3,7 +3,6 @@ layout: post
 title: "〜から"
 description: "from _____."
 categories: grammar
-permalink: /:categories/:title.html
 ---
 
 ## Meaning

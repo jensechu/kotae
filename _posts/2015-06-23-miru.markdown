@@ -3,7 +3,6 @@ layout: post
 title: "〜みる"
 description: "to try to  _____."
 categories: verb
-permalink: /:categories/:title.html
 ---
 
 ## Meaning

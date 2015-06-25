@@ -3,7 +3,6 @@ layout: post
 title: "〜やすい"
 description: "_____ is easy to do."
 categories: verb
-permalink: /:categories/:title.html
 ---
 
 ## Meaning

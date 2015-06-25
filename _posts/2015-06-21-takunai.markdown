@@ -3,7 +3,6 @@ layout: post
 title: "〜たくない"
 description: "do not want to _____."
 categories: verb
-permalink: /:categories/:title.html
 ---
 
 ## Meaning
