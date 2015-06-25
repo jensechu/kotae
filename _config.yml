@@ -1,6 +1,5 @@
 # Site settings
 title: ｋｏｔａｅ
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Compendium of Japanese-language lessons that is updated with learning progression.
 baseurl: "/kotae" # the subpath of your site, e.g. /blog/
