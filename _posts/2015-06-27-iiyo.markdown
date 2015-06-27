@@ -1,0 +1,29 @@
+---
+layout: post
+title: "〜いいよ"
+description: "casual order/permission to  _____."
+categories: verb
+---
+
+## Meaning
+
+Permissive:
+
+it's okay to  _____.
+
+or casual order:
+
+do  _____.
+
+---
+
+## Usage
+
+ーて form verb.
+
+---
+
+## Examples
+
+ビールを{% ruby ["飲", "の"] %}んで**いいよ**。
+Drink the beer!
