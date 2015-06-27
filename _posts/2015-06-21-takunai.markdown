@@ -19,5 +19,5 @@ do not want to _____.
 
 ## Examples
 
-私はビールを飲み**たくない**。
+{% ruby ["私", "わたし"] %}はビールを{% ruby ["飲", "の"] %}み**たくない**。
 I do not want to drink beer.

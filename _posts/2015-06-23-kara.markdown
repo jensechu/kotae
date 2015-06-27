@@ -22,9 +22,9 @@ If after a clause can indicate:
 
 ## Examples
 
-大丈夫です**から**心配しないでください。
+{% ruby [["大", "だい"], ["丈", "じょう"], ["夫", "ぶ"]]%}です**から**{% ruby [["心", "しん"], ["配", "ぱい"]] %}しないでください。
 I am fine **so** don't worry about me.
 
 
-内**から**会社にいきました。
+{% ruby ["内", "うち"] %}**から**{% ruby [["会", "かい"], ["社", "しゃ"]] %}にいきました。
 I went **from** home to my office.

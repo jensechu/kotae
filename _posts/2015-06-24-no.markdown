@@ -21,11 +21,11 @@ Used after a noun to indicate ownership over following object.
 
 ## Examples
 
-私**の**ビールです。
+{% ruby ["私", "わたし"] %}**の**ビールです。
 This is my beer.
 
-机**の**上に本があります。
+{% ruby ["机", "つくえ"] %}**の**上に{% ruby ["本", "ほん"] %}があります。
 There is a book on top of the desk.
 
-あ**の**森**の**中にこわい動物がいます。
+あ**の**{% ruby ["森", "もり"] %}**の**{% ruby ["中", "なか"] %}にこわい{% ruby [["動", "どう"], ["物", "ぶつ"]] %}がいます。
 There are scary animals in that forest (over there).

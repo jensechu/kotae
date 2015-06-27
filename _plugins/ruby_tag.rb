@@ -1,3 +1,4 @@
+# coding: utf-8
 # Title: ruby tag for Jekyll
 # Author: Takashi Mizohata <beatak@gmail.com>
 # Description: Not the language, but the Ruby element in HTML5

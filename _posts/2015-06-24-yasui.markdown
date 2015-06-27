@@ -19,5 +19,5 @@ _____ is east to do.
 
 ## Examples
 
-このお酒は飲み**やすい**。
+このお{% ruby ["酒", "さけ"] %}は{% ruby ["飲", "の"] %}み**やすい**。
 This alcohol is easy to drink.

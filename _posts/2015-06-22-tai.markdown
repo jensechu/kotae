@@ -19,5 +19,5 @@ want to _____.
 
 ## Examples
 
-私はビールを飲み**たい**。
+{% ruby ["私", "わたし"] %}はビールを{% ruby ["飲", "の"] %}み**たい**。
 I want to drink beer.

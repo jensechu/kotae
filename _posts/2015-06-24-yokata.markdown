@@ -19,5 +19,5 @@ glad that  _____.
 
 ## Examples
 
-あなたに会えて**よかった**。
+あなたに{% ruby ["会", "あ"] %}えて**よかった**。
 I am glad I met you.

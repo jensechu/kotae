@@ -19,5 +19,5 @@ to only do _____.
 
 ## Examples
 
-私はビールを飲んで**ばかり**。
+{% ruby ["私", "わたし"] %}はビールを{% ruby ["飲", "の"] %}んで**ばかり**。
 I only drink beer.

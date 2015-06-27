@@ -19,5 +19,5 @@ __noun__ が いちばん __adjective__ です。
 
 ## Examples
 
-この音楽がいちばん好きです！
+この{% ruby [["音", "おん"], ["楽", "がく"]] %}がいちばん{% ruby ["好", "す"] %}きです！
 This is my favorite song!

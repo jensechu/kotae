@@ -15,11 +15,11 @@ to try to _____.
 
 ーて form verb.
 
-見る means 'to see'. In this case 'to see' the modified verb carried out.
+{% ruby ["見", "み"] %}る means 'to see'. In this case 'to see' the modified verb carried out.
 
 ---
 
 ## Examples
 
-私はビールを飲んで**みる**。
+{% ruby ["私", "わたし"] %}はビールを{% ruby ["飲", "の"] %}んで**みる**。
 I only drink beer.
