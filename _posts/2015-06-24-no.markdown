@@ -2,7 +2,7 @@
 layout: post
 title: "〜の"
 description: "posession of ____ by ____."
-categories: verb
+categories: grammar
 ---
 
 ## Meaning
