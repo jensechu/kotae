@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/kotae/</link>
     <atom:link href="http://yourdomain.com/kotae/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 18:03:09 -0700</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 18:03:09 -0700</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2015 00:01:13 -0700</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2015 00:01:13 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -128,11 +128,11 @@ There is a book on top of the desk.&lt;/p&gt;
 There are scary animals in that forest (over there).&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/kotae/verb/no.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/kotae/verb/no.html</guid>
+        <link>http://yourdomain.com/kotae/grammar/no.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/kotae/grammar/no.html</guid>
         
         
-        <category>verb</category>
+        <category>grammar</category>
         
       </item>
     
