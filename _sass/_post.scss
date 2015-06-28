@@ -14,6 +14,20 @@
     	background: rgba(230, 230, 230, 0.5);
     }
 
+    &.header {
+      font-weight: bold;
+
+      &:hover {
+        background: none;
+      }
+    }
+
+    .post-category-anchor {
+      position: absolute;
+      height: 200px;
+      top: -100px;
+    }
+
     &:hover {
     	background: rgba(#FFB3B3, 0.2);
 
@@ -36,17 +50,6 @@
       1px -1px 0 #FFF,
       -1px 1px 0 #FFF,
       1px 1px 0 #FFF;
-
-  &.header {
-    font-weight: bold;
-    color: #000;
-
-    a {
-      position: absolute;
-      height: 200px;
-      top: -100px;
-    }
-  }
 }
 
 .post-description {
