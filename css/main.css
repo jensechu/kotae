@@ -312,11 +312,19 @@ pre {
   width: 70%;
   float: left;
   color: #000; }
+  .post-description em {
+    font-size: 12px;
+    padding: 0px 15px;
+    border-bottom: 1px solid #000; }
+  .post-description p {
+    margin: 0px; }
 
 .post-content {
   margin-bottom: 30px; }
-  .post-content strong {
-    text-decoration: underline; }
+  .post-content em {
+    font-size: 12px;
+    padding: 0px 15px;
+    border-bottom: 1px solid #000; }
   .post-content hr {
     opacity: 0;
     padding: 10px 0px; }
