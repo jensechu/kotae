@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜たくない"
-description: "do not want to _____."
+description: "do not want to _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-do not want to _____.
+do not want to _verb_.
 
 ---
 

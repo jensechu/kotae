@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜やすい"
-description: "_____ is easy to do."
+description: "_verb_ is easy to do."
 categories: verb
 ---
 
 ## Meaning
 
-_____ is easy to do.
+_verb_ is easy to do.
 
 ---
 

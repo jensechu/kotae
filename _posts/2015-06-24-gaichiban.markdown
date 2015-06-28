@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "〜が　いちばん"
-description: " ____ is the most ____."
+description: " _noun_ is the most _adjective_."
 categories: grammar
 ---
 

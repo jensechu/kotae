@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜たい"
-description: "want to _____."
+description: "want to _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-want to _____.
+want to _verb_.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜から"
-description: "from _____."
+description: "from _origin/cause_."
 categories: grammar
 ---
 
 ## Meaning
 
-from _____.
+from _origin/cause_.
 
 ---
 

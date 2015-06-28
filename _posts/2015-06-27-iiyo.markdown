@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "〜いいよ"
-description: "casual order/permission to  _____."
+description: "casual order/permission to _verb_."
 categories: verb
 ---
 
@@ -9,11 +9,11 @@ categories: verb
 
 Permissive:
 
-it's okay to  _____.
+it's okay to _verb_.
 
 or casual order:
 
-do  _____.
+do _verb_.
 
 ---
 

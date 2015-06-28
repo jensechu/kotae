@@ -1,13 +1,19 @@
 ---
 layout: post
 title: "〜もいい"
-description: "may I _____."
+description: "polite order/permission to _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-glad that  _____.
+Asking for permission
+
+may I _verb_.
+
+Giving permission
+
+you may _verb_.
 
 ---
 

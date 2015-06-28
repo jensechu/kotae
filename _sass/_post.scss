@@ -56,13 +56,25 @@
     width: 70%;
     float: left;
     color: #000;
+
+    em {
+      font-size: 12px;
+      padding: 0px 15px;
+      border-bottom: 1px solid #000;
+    }
+
+    p {
+      margin: 0px;
+    }
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
 
-    strong {
-      text-decoration: underline;
+    em {
+      font-size: 12px;
+      padding: 0px 15px;
+      border-bottom: 1px solid #000;
     }
 
     hr {
@@ -72,11 +84,11 @@
 
     h2 {
         font-size: 14px;
-	margin-bottom: 0px;
-	font-weight: bold;
-	text-transform: uppercase;
-	width: 100%;
-	display: inline-block;
+      	margin-bottom: 0px;
+      	font-weight: bold;
+      	text-transform: uppercase;
+      	width: 100%;
+      	display: inline-block;
 
         @include media-query($on-laptop) {
             font-size: 16px;

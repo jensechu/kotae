@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜ばかり"
-description: "to only do  _____."
+description: "to only do  _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-to only do _____.
+to only do _verb_.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜よかった"
-description: "glad that  _____."
+description: "glad that _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-glad that  _____.
+glad that _verb_.
 
 ---
 

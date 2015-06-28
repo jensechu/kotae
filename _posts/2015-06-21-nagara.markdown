@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜ながら"
-description: "do _____ while  _____."
+description: "do _verb_ while  _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-do ＿＿＿ while  ＿＿＿.
+do _verb_ while  _verb_.
 
 ---
 

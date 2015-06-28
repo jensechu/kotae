@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜みる"
-description: "to try to  _____."
+description: "to try to _verb_."
 categories: verb
 ---
 
 ## Meaning
 
-to try to _____.
+to try to _verb_.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜にくい"
-description: "_____ is hard to do."
+description: "_verb_ is hard to do."
 categories: verb
 ---
 
 ## Meaning
 
-_____ is hard to do.
+_verb_ is hard to do.
 
 ---
 

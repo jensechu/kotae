@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "〜の"
-description: "posession of ____ by ____."
+description: "possession of _noun_ by _noun_."
 categories: grammar
 ---
 
 ## Meaning
 
-Indicates posession over something else.
+Indicates possession over something else.
 
 Can also be used for prepositional directions such as: above, below, around etc.
 
