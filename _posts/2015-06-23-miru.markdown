@@ -21,5 +21,5 @@ to try to _____.
 
 ## Examples
 
-{% ruby ["私", "わたし"] %}はビールを{% ruby ["飲", "の"] %}んで**みる**。
-I only drink beer.
+{% ruby ["私", "わたし"] %}は{% ruby [["日", "に"], ["本", "ほん"], ["語", "ご"]] %}を{% ruby ["話", "はな"] %}して**みる**。
+I try to speak Japanese.

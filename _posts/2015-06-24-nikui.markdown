@@ -19,5 +19,5 @@ _____ is hard to do.
 
 ## Examples
 
-この{% ruby ["肉", "にく"] %}は{% ruby ["食べ", "た"] %}べ**にくい**。
+この{% ruby ["肉", "にく"] %}は{% ruby ["食", "た"] %}べ**にくい**。
 This meat is hard to eat.
