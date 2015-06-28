@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# {% ruby ["答", "こた"] %}え // kotae // answer.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Hi I'm [Jensen](https://twitter.com/jensechu),
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Since I am horribly unorganized I ended up with ten different notebooks with
+incredibly random snippets of Japanese notes from class and personal study.
+
+kotae is a centralized source for my notes as I continue to learn. It's main
+use is a reference while reading Japanese material, not to provide full lessons.
+
+If you want more in-depth grammar lessons [check out this site](http://www.guidetojapanese.org/learn/grammar).

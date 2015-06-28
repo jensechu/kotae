@@ -19,15 +19,15 @@ layout: default
     {% for post in site.posts %}
       {% if post.categories contains 'grammar' %}
         <div class='post-row'>
-        <a class='' href={{ site.baseurl }}{{ post.url }}>
-          <div class='post-title'>
-              {{ post.title }}
-          </div>
+          <a class='' href={{ site.baseurl }}{{ post.url }}>
+            <div class='post-title'>
+                {{ post.title }}
+            </div>
 
-          <div class='post-description'>
-             {{ post.description }}
-          </div>
-                      </a>
+            <div class='post-description'>
+               {{ post.description }}
+            </div>
+          </a>
         </div>
       {% endif %}
     {% endfor %}
@@ -49,15 +49,15 @@ layout: default
     {% for post in site.posts %}
       {% if post.categories contains 'verb' %}
         <div class='post-row'>
-        <a class='' href={{ site.baseurl }}{{ post.url }}>
-          <div class='post-title'>
-              {{ post.title }}
-          </div>
+          <a class='' href={{ site.baseurl }}{{ post.url }}>
+            <div class='post-title'>
+                {{ post.title }}
+            </div>
 
-          <div class='post-description'>
-             {{ post.description }}
-          </div>
-                      </a>
+            <div class='post-description'>
+               {{ post.description }}
+            </div>
+          </a>
         </div>
       {% endif %}
     {% endfor %}
