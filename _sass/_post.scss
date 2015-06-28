@@ -15,11 +15,13 @@
     }
 
     &.header {
+      background: none;
       font-weight: bold;
 
       &:hover {
         background: none;
       }
+
     }
 
     .post-category-anchor {
@@ -50,12 +52,21 @@
       1px -1px 0 #FFF,
       -1px 1px 0 #FFF,
       1px 1px 0 #FFF;
+
+
+    @include media-query($on-palm) {
+      width: 100%;
+    }
 }
 
 .post-description {
     width: 70%;
     float: left;
     color: #000;
+
+    @include media-query($on-palm) {
+      width: 100%;
+    }
 
     em {
       font-size: 12px;
