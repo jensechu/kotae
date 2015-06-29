@@ -1,0 +1,23 @@
+---
+layout: post
+title: "〜だろう"
+description: "assume that _statement_"
+categories: grammar
+---
+
+## Meaning
+
+assume or guess that a statement is true.
+
+---
+
+## Usage
+
+* _statement_ だろう。
+
+---
+
+## Examples
+
+{% ruby ["犬", "いぬ"] %}は{% ruby ["食", "た"] %}べたいだろう。
+I assume the dog wants to eat.

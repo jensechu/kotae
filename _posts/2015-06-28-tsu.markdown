@@ -1,0 +1,23 @@
+---
+layout: post
+title: "〜つ"
+description: "general things"
+categories: draft
+---
+
+## Meaning
+
+counter for any general object or thing.
+
+---
+
+## Usage
+
+* _quantity_ つ。
+
+---
+
+## Examples
+
+{% ruby ["犬", "いぬ"] %}は{% ruby ["食", "た"] %}べたいだろう。
+I assume the dog wants to eat.

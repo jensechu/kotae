@@ -1,0 +1,25 @@
+---
+layout: post
+title: "〜だけ"
+description: "only/just _preposition_ _statement_."
+categories: draft
+---
+
+## Meaning
+
+There are multiple use cases, a couple are:
+
+* something only occurs in the given situation.
+* suggesting an amount was only a certain _quantity_ amount.
+
+---
+
+## Usage
+
+only _preposition_ _statement_.
+
+---
+
+## Examples
+
+{% ruby ["夢", "ゆめ"] %}の{% ruby ["中", "なか"] %}**だけ**きゃりぱみゅぱみゅとデートする。

@@ -1,0 +1,33 @@
+---
+layout: post
+title: "〜や"
+description: "_noun_ or _noun_. // _noun_, _noun_ and _noun_."
+categories: grammar
+---
+
+## Meaning
+
+There are multiple use cases, a couple are:
+
+* A choice between two things.
+* List of things with an implication the list being mentioned isn't complete.
+  * Listing off favorite bands, hobbies etc. but not all at once.
+
+---
+
+## Usage
+
+* _noun_ or _noun_.
+* _noun_ and _noun_ and _noun_.
+
+---
+
+## Examples
+
+{% ruby ["朝", "あさ"] %}ごはんにパン**や**ベーグルを{% ruby ["作", "つく"] %}る。
+I prepare a bagel or bread for breakfast.
+
+{% ruby ["朝", "あさ"] %}ごはんはごはん**や**{% ruby ["魚", "さかな"] %}**や**{% ruby ["卵", "卵"] %}を{% ruby ["食", "た"] %}べる。
+I eat rice, fish, and eggs for breakfast.*
+
+*NOTE: implies you might eat more in addition when using や.
