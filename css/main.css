@@ -288,6 +288,7 @@ pre {
   .post-row:nth-child(even) {
     background: rgba(230, 230, 230, 0.5); }
   .post-row.header {
+    background: none;
     font-weight: bold; }
     .post-row.header:hover {
       background: none; }
@@ -307,11 +308,17 @@ pre {
   width: 30%;
   float: left;
   text-shadow: -1px -1px 0 #FFF, 1px -1px 0 #FFF, -1px 1px 0 #FFF, 1px 1px 0 #FFF; }
+  @media screen and (max-width: 600px) {
+    .post-title {
+      width: 100%; } }
 
 .post-description {
   width: 70%;
   float: left;
   color: #000; }
+  @media screen and (max-width: 600px) {
+    .post-description {
+      width: 100%; } }
   .post-description em {
     font-size: 12px;
     padding: 0px 15px;
